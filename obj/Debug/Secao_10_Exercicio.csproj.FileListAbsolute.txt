@@ -1,0 +1,8 @@
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\bin\Debug\Secao_10_Exercicio.exe.config
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\bin\Debug\Secao_10_Exercicio.exe
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\bin\Debug\Secao_10_Exercicio.pdb
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\obj\Debug\Secao_10_Exercicio.csproj.AssemblyReference.cache
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\obj\Debug\Secao_10_Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\obj\Debug\Secao_10_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\obj\Debug\Secao_10_Exercicio.exe
+C:\Users\Maicon\OneDrive\Área de Trabalho\CourseUdemy\Secao_10_Exercicio\Secao_10_Exercicio\obj\Debug\Secao_10_Exercicio.pdb
